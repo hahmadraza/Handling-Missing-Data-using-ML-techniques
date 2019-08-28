@@ -70,6 +70,7 @@ It is an iterative estimation of row or column means and standard deviations to 
 <p align = "center">
 <img src = "https://github.com/hahmadraza/Handling-Missing-Data-using-ML-techniques/blob/master/Images/Rsults.JPG">
 </p>
+
 # References
 
 [1] https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartphones
