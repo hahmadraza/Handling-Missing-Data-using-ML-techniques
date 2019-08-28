@@ -71,8 +71,8 @@ It is an iterative estimation of row or column means and standard deviations to 
 <img src = "https://github.com/hahmadraza/Handling-Missing-Data-using-ML-techniques/blob/master/Images/Rsults.JPG">
 </p>
 # References
-[1] https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartphones  
-[2] https://towardsdatascience.com/6-different-ways-to-compensate-for-missing-values-data-imputation-with-examples-6022d9ca0779  
-[3] https://arxiv.org/pdf/1410.2596.pdf  
-[4] Rahul Mazumder, Trevor Hastie, and Rob Tibshirani. Spectral regularization algorithms for learning large incomplete matrices. Journal of Machine Learning Research, 11:2287–2322, 2010.  
-[5] Nathan Srebro, Jason Rennie, and Tommi Jaakkola. Maximum margin matrix factorization. Advances in Neural Information Processing Systems, 17, 2005.  
+ttps://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartphones  
+https://towardsdatascience.com/6-different-ways-to-compensate-for-missing-values-data-imputation-with-examples-6022d9ca0779  
+https://arxiv.org/pdf/1410.2596.pdf  
+Rahul Mazumder, Trevor Hastie, and Rob Tibshirani. Spectral regularization algorithms for learning large incomplete matrices. Journal of Machine Learning Research, 11:2287–2322, 2010.  
+Nathan Srebro, Jason Rennie, and Tommi Jaakkola. Maximum margin matrix factorization. Advances in Neural Information Processing Systems, 17, 2005.  
